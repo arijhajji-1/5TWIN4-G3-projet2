@@ -39,6 +39,7 @@ Utilisez Nexus pour gérer vos artefacts.
 N'oubliez pas de mettre à jour les dépendances Maven si nécessaire.
 
 Le fichier Jenkinsfile peut être personnalisé en fonction de vos besoins spécifiques.
+![image](https://github.com/arijhajji-1/Kaddem-Project/assets/61475226/f1108136-a362-4584-af24-0a0ab7eb40ba)
 
 
 
